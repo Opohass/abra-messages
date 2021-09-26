@@ -1,0 +1,1 @@
+web: gunicorn abra_msg_rest.wsgi
